@@ -1,0 +1,2 @@
+timestamp,sourceIp,domain,recordType,responseCode,riskScore,severity,reasons
+2026-10-24T12:00:10Z,192.168.1.50,example.com,A,NOERROR,30,LOW,Repeated DNS queries from 192.168.1.50 to example.com within the configured time window

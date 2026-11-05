@@ -1,0 +1,5 @@
+timestamp,sourceIp,domain,recordType,responseCode
+2026-10-24T15:00:00Z,192.168.1.70,transfer.example.com,TXT,NOERROR
+2026-10-24T15:00:10Z,192.168.1.70,transfer.example.com,TXT,NOERROR
+2026-10-24T15:00:20Z,192.168.1.70,transfer.example.com,TXT,NOERROR
+2026-10-24T15:00:30Z,192.168.1.70,transfer.example.com,TXT,NOERROR

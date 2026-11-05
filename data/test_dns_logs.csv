@@ -1,0 +1,7 @@
+timestamp,sourceIp,domain,recordType,responseCode
+2026-10-24T10:00:00Z,192.168.1.10,example.com,A,NOERROR
+2026-10-24T10:00:05Z,192.168.1.11,mail.example.com,MX,NOERROR
+2026-10-24T10:00:10Z,192.168.1.12,abc123xyz.example.com,TXT,NXDOMAIN
+2026-10-24T10:00:15Z,192.168.1.10,google.com,A,NOERROR
+2026-10-24T10:00:20Z,192.168.1.13,updates.example.org,AAAA,NOERROR
+2026-10-24T10:00:25Z,192.168.1.14,abcdefghijklmnopqrstuvwxyz1234567890.example.com,TXT,NOERROR

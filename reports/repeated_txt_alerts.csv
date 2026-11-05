@@ -1,0 +1,2 @@
+timestamp,sourceIp,domain,recordType,responseCode,riskScore,severity,reasons
+2026-10-24T15:00:30Z,192.168.1.70,transfer.example.com,TXT,NOERROR,50,MEDIUM,Repeated TXT queries from 192.168.1.70 to transfer.example.com exceeded the configured threshold within the time window (+30 risk points); TXT record query combined with other suspicious signals (+20 risk points)
